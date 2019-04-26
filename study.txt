@@ -1,0 +1,5 @@
+https://otexts.com/fpp2/tspatterns.html
+
+
+https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html
+https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/
